@@ -177,6 +177,7 @@ If a restore fails, the safety backup is your fallback.
 - **Close the game before backing up or restoring.** Writing to save files while
   the game is running can produce inconsistent backups or cause the game to
   overwrite restored data.
+- **EARLY DISCLAIMER IF CLOUD SAVING IS EVER ADDED**
 - If Steam Cloud is enabled for the game, Steam may sync saves when the game or
   Steam is launched. For the most reliable restore, close Steam first or
   temporarily disable Steam Cloud for Incursion Red River.
